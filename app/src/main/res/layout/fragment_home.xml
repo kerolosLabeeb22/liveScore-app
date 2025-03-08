@@ -39,6 +39,8 @@
         android:src="@drawable/ic_baseline_arrow_upward_24"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        tools:ignore="ContentDescription"/>
+        tools:ignore="ContentDescription"
+        android:background="@drawable/refresh_btn_bg"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

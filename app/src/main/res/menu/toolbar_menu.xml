@@ -4,7 +4,7 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/menu_info"
-            android:icon="@drawable/ic_baseline_info_24"
+            android:icon="@drawable/about_ic"
             android:title="@string/about"
             app:showAsAction="ifRoom" />
     </group>

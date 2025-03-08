@@ -11,6 +11,7 @@
         android:layout_height="?actionBarSize"
         app:menu="@menu/toolbar_menu"
         app:navigationIcon="@null"
-        app:title="@string/videos" />
+        android:background="@color/md_theme_light_onPrimary"
+        app:title="@string/highlights" />
 
 </com.google.android.material.appbar.AppBarLayout>

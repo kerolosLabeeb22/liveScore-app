@@ -1,3 +1,4 @@
+import org.apache.groovy.json.internal.Chr.add
 import org.gradle.api.artifacts.dsl.DependencyHandler
 
 object Dependencies {

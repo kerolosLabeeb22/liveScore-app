@@ -1,9 +1,9 @@
 object Version {
     //App Level
     const val hiltGradle = "2.42"
-    const val kotlinGradle = "1.7.10"
+    const val kotlinGradle = "1.8.0"
     const val spotless = "6.10.0"
-    const val toolsBuildGradle = "7.2.2"
+    const val toolsBuildGradle = "8.1.0"
 
     //Dependencies
     const val chucker = "3.5.2"

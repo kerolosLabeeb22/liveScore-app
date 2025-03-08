@@ -76,7 +76,7 @@ class MainActivity : AppCompatActivity() {
                     bottomNav.isVisible = destination.id != R.id.viewerFragment
 
                     val title = when (destination.id) {
-                        R.id.homeFragment -> getString(R.string.videos)
+                        R.id.homeFragment -> getString(R.string.highlights)
                         R.id.liveScoreFragment -> getString(R.string.livescore)
                         R.id.worldCupFragment -> getString(R.string.world_cup)
                         else -> ""

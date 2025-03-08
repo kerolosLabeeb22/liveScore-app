@@ -16,6 +16,8 @@ android {
             keyAlias = AppConfig.KeyStore.alias
             keyPassword = AppConfig.KeyStore.password
         }
+
+        namespace = "com.dirzaaulia.footballclips"
     }
 
     compileSdk = AppConfig.compileSdk
